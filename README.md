@@ -9,10 +9,13 @@
 A system-wide filter for mechanical-keyboard chatter, so one physical press
 registers exactly once.
 
-<a href="https://github.com/TheHolyOneZ/ZKeyDebouncer/releases"><img src="https://img.shields.io/badge/download-installer-FFB020?style=flat-square" alt="Download"></a>
+<a href="https://zsync.eu/zkeydebouncer/"><img src="https://img.shields.io/badge/website-zsync.eu%2Fzkeydebouncer-FFB020?style=flat-square" alt="Homepage"></a>
+<a href="https://github.com/TheHolyOneZ/ZKeyDebouncer/releases/latest"><img src="https://img.shields.io/badge/download-installer-1f1f1f?style=flat-square" alt="Download"></a>
 <img src="https://img.shields.io/badge/platform-Windows%2010%20%2F%2011-1f1f1f?style=flat-square" alt="Platform">
 <img src="https://img.shields.io/badge/license-GPL--3.0--or--later-1f1f1f?style=flat-square" alt="License">
 <img src="https://img.shields.io/badge/built%20with-Rust%20%2B%20Tauri%202-1f1f1f?style=flat-square" alt="Built with">
+
+**[zsync.eu/zkeydebouncer](https://zsync.eu/zkeydebouncer/)** &nbsp;·&nbsp; the project homepage
 
 <br>
 
@@ -39,6 +42,11 @@ throws that press away. The keystroke never reaches Windows, your text editor,
 your game, or anything else.
 
 You do not need a new keyboard.
+
+> [!TIP]
+> Prefer a page you can just read? Everything below is also on the project
+> homepage at **[zsync.eu/zkeydebouncer](https://zsync.eu/zkeydebouncer/)**,
+> with a live demo of what the filter sees.
 
 ---
 
